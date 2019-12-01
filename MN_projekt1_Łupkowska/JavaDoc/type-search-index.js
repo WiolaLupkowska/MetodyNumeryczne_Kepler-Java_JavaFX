@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Bisekcja"},{"p":"<Unnamed>","l":"Controller"},{"p":"<Unnamed>","l":"Funkcja"},{"p":"<Unnamed>","l":"LiczFunkcje"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MetodaSiecznych"},{"p":"<Unnamed>","l":"MetodaStycznych"},{"p":"<Unnamed>","l":"RegulaPunktuStalego"},{"p":"<Unnamed>","l":"Test"}]

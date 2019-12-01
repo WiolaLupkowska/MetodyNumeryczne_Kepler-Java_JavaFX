@@ -1,0 +1,13 @@
+.button {
+    -fx-border-color: #000000;
+    -fx-background-color: #12c9d6;
+}
+
+.chart-symbol{
+    -fx-padding: 2px;
+}
+
+.button:pressed{
+    -fx-background-color: #12e1ee;
+    -fx-text-fill: #f21f05;
+}
